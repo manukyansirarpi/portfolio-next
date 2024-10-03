@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48">
+  <path fill="#F44336" d="M6 2h7l5 5v15c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2z"/>
+  <path fill="#FFF" d="M12 9V3.5L18.5 10H13c-.55 0-1-.45-1-1z"/>
+  <text x="6" y="18" font-size="6" fill="#FFF" font-family="Arial, sans-serif" font-weight="bold">JPG</text>
+</svg>
